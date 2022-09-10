@@ -21,11 +21,11 @@
  *   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package bg.cytec.android.fskmodem;
-
-import java.io.IOException;
+package cytec.android.fskmodem;
 
 import android.media.AudioFormat;
+
+import java.io.IOException;
 
 public class FSKConfig {
 

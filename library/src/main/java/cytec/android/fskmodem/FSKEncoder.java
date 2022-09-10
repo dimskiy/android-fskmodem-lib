@@ -21,7 +21,7 @@
  *   along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package bg.cytec.android.fskmodem;
+package cytec.android.fskmodem;
 
 import java.nio.ByteBuffer;
 import java.nio.ShortBuffer;
